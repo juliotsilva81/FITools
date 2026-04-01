@@ -11,14 +11,14 @@ def generate_file_hash(filepath):
             sha256_hash.update(byte_block)
     return sha256_hash.hexdigest()
 
-def build_manifest(base_dir):
+def build_manifest(target_dir, base_dir):
     manifest = {
         "version": "1.0.1", # Atualize a versão aqui quando fizer grandes lançamentos
         "last_updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "files": []
     }
     
-    for root, _, files in os.walk(base_dir):
+    for root, _, files in os.walk(target_dir):
         for file in files:
             # Ignorar a pasta do git, caches, arquivos ocultos e o próprio manifesto para evitar loops
             if ".git" in root or "__pycache__" in root or file in ["manifest.json", "generate_manifest.py", "desktop.ini"]:
@@ -39,7 +39,13 @@ def build_manifest(base_dir):
 if __name__ == "__main__":
     # Define o diretório base como sendo a raiz onde o script está
     base_directory = os.path.dirname(os.path.abspath(__file__))
-    manifest_data = build_manifest(base_directory)
+    
+    # Define a pasta alvo onde os arquivos das ferramentas estão localizados
+    target_directory = os.path.join(base_directory, "FIT")
+    if not os.path.exists(target_directory):
+        print(f"Aviso: A pasta alvo '{target_directory}' não foi encontrada.")
+        
+    manifest_data = build_manifest(target_directory, base_directory)
     
     manifest_path = os.path.join(base_directory, "manifest.json")
     with open(manifest_path, "w", encoding="utf-8") as f:
