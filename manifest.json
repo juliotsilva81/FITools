@@ -1,0 +1,426 @@
+{
+    "version": "1.0.1",
+    "last_updated": "2026-04-01T14:58:09Z",
+    "files": [
+        {
+            "path": "FITool-1.6.0.1.zip",
+            "hash": "dcf7f8aa286aff54c2e5cc668e6de73863df1844761062b0f3499d19c29be65c",
+            "size": 327679
+        },
+        {
+            "path": "FITool-1.7.3.1105.zip",
+            "hash": "3240382105b847a50f8364b60dc365410e1a0dc74d6cb8a9f2e5ff8ead4f02f6",
+            "size": 519492
+        },
+        {
+            "path": "FITool-10.0.46.1002.zip",
+            "hash": "274f423335cb0454920dbd4d2b719498b1e804d290d1cda6f036be78553b7a14",
+            "size": 1454644
+        },
+        {
+            "path": "FITool-10.0.60.3000.zip",
+            "hash": "1dc5cc175ccbd578306a92507ff06d142dacb50d2d97d0adf276175b19c54697",
+            "size": 1160483
+        },
+        {
+            "path": "FITool-11.0.0.1166.zip",
+            "hash": "acdd988bfedc84a6e5e8ea1aaf116976abbbb5bba7f826ac7c5f5bcd5f7c5de0",
+            "size": 6224010
+        },
+        {
+            "path": "FITool-11.0.0.1173.zip",
+            "hash": "9ebc66be42578d10dcee856d96a46005224ac1f3224a6932338a54be55931deb",
+            "size": 6223776
+        },
+        {
+            "path": "FITool-11.0.0.1180.zip",
+            "hash": "23b0fb233f983c4b59254762be6e1595a34de93322fad9bf7206198cd6b0c572",
+            "size": 6223804
+        },
+        {
+            "path": "FITool-11.0.0.1191-r12-For-100-series-systems-which-come-with-ME-firmware-v11.0.xFlash-Image-Tool.-Version-11.0.0.1191.zip",
+            "hash": "105c03a74d0590281187d46f38559d041984114ee10bc04425af24e1d284ec3b",
+            "size": 6226197
+        },
+        {
+            "path": "FITool-11.0.0.1202-r17-For-100-series-systems-H-_-LP-ME-firmware-v11.0.x-Flash-Image-Tool.-Version-11.0.0.1202-1.zip",
+            "hash": "59a081f7b4814bb97f72f26dea9e4eca8a54ec590eb32f57ee716607645927be",
+            "size": 6225461
+        },
+        {
+            "path": "FITool-11.0.0.1202.zip",
+            "hash": "fbfafcc0f3954cda07bc326af21f3850b326ea9d650b4652d9c30b8fb3bded55",
+            "size": 6223703
+        },
+        {
+            "path": "FITool-11.0.10.1002.zip",
+            "hash": "36d401502591419ab2fb7a5442f708c99c60936844bc3140201e1a19e38cec83",
+            "size": 6816137
+        },
+        {
+            "path": "FITool-11.0.49.1536.zip",
+            "hash": "468d50ee213a84a28cb6192c42aad66dc7d81ab791009aaf4f06c34d1048db18",
+            "size": 7877866
+        },
+        {
+            "path": "FITool-11.6.10.1196-For-100-200-series-SKL-KBL-U-and-SKL-KBL-Y-systems-which-come-with-ME-firmware-v11.0-v11.6.zip",
+            "hash": "0f9c80da640a9fed3db6ed7765789a9662a2132fc214883cccba7ffc32a76a67",
+            "size": 6485680
+        },
+        {
+            "path": "FITool-11.6.10.1196-r8-For-100-200-series-SKL-KBL-U-and-SKL-KBL-Y-systems-which-come-with-ME-firmware-v11.0-v11.6Flash-Image-Tool.-Version-11.6.10.1196-1.zip",
+            "hash": "0b6e7157f89cf136b5594653d2e29a3aea752b0c49a99882c26677c6b4a171ac",
+            "size": 6486220
+        },
+        {
+            "path": "FITool-11.6.20.1221.zip",
+            "hash": "f9866743cbaf215d8834d346a4171cbfd23164d872ea35121892963b81189421",
+            "size": 6490347
+        },
+        {
+            "path": "FITool-11.7.0.1292.zip",
+            "hash": "edbbc036c5b735ce74ae299b272749b978dd80fc3a65e6a771b731358df19604",
+            "size": 6562555
+        },
+        {
+            "path": "FITool-11.8.50.3460.zip",
+            "hash": "e785cbff3f4809c309259d744b735b205d6a10df6872476ae9348a411143c614",
+            "size": 6564655
+        },
+        {
+            "path": "FITool-11.8.55.3510.zip",
+            "hash": "aa6558f16ab6cc3d2bcc61a1245f49453ffbe1e86b09fdf314e46517a392873d",
+            "size": 6553603
+        },
+        {
+            "path": "FITool-11.8.65.3606.zip",
+            "hash": "91dd9df958eeb207269da4c5ad00f673caff7680e6f77fe6b0a8ec0d8257c0bc",
+            "size": 7120471
+        },
+        {
+            "path": "FITool-11.8.77.3664.zip",
+            "hash": "fbe3356092f52059b88ae15782a2026c8fe81ffabc5b6d03fd54eab92012817d",
+            "size": 7110037
+        },
+        {
+            "path": "FITool-11.8.79.3722.zip",
+            "hash": "664e79895748382035a2b2e02c8158676845552b9d45e222ed5919a6690e4684",
+            "size": 7110389
+        },
+        {
+            "path": "FITool-11.8.86.3877.zip",
+            "hash": "aa74f0742df8dc3a09ebb52c30a31c5669d2917a19080f72de320c78853c0c20",
+            "size": 6817757
+        },
+        {
+            "path": "FITool-12.0.0.1069.zip",
+            "hash": "e4eb819167471867f033890d5c92deb487c7275226471b3447e377467abdf7e6",
+            "size": 6785011
+        },
+        {
+            "path": "FITool-12.0.2.1087-r7.zip",
+            "hash": "62bd24db35f5b15b3d6d7914a0a0b0047c9c08634d12a153abf48a3e62f8eb0b",
+            "size": 6784333
+        },
+        {
+            "path": "FITool-12.0.2.1087.zip",
+            "hash": "5ee66b4ac4fdd24d3cd242968e7233b4427358185cb14502a846631ccdb8d2f5",
+            "size": 6784232
+        },
+        {
+            "path": "FITool-12.0.20.1301.zip",
+            "hash": "9ec9ba33f92defd361ee6fccfd40b2ee630b322ba9bef3751c65eede13088ee4",
+            "size": 7196133
+        },
+        {
+            "path": "FITool-12.0.22.1310.zip",
+            "hash": "bb4219bc759080efbe89796ab7c91a320b595489e74d0db143ba63a5dbd4b312",
+            "size": 7206880
+        },
+        {
+            "path": "FITool-12.0.40.1434-r20.zip",
+            "hash": "a0136f64df803cb72c24302560df2d47094856b975a8d8b03b28c34592e0ab3a",
+            "size": 7711205
+        },
+        {
+            "path": "FITool-12.0.49.1536.zip",
+            "hash": "193167140f474616aad5f6fb4f6c44d51bcd1409bed7fafa2b020d9ee239f8fb",
+            "size": 7877445
+        },
+        {
+            "path": "FITool-12.0.6.1120-r9.zip",
+            "hash": "cbdf01e0264fe64ba86a65a9fa45b086b0816228b1864d384957fe23a8a59913",
+            "size": 6785525
+        },
+        {
+            "path": "FITool-12.0.64.1551.zip",
+            "hash": "b3eeb8d81679add529afe5ac2ae8c886f093cf12da73fea88a96c3ac25251d82",
+            "size": 8333659
+        },
+        {
+            "path": "FITool-12.0.68.1606.zip",
+            "hash": "b52b926f3b6f6495278b967294517e016ffafe259ae0c811250dbb543511b12b",
+            "size": 8334150
+        },
+        {
+            "path": "FITool-12.0.70.1652.zip",
+            "hash": "baa5231c51d1470cbb3c97c4ffd69db6c9656d6efa37d0317f2137b02b3358e4",
+            "size": 7936777
+        },
+        {
+            "path": "FITool-12.0.85.1919.zip",
+            "hash": "d5c5a1137cf70fe5b2a81ce9ae589920cc6518f851528b9b3c76f9cf0f28889d",
+            "size": 8068235
+        },
+        {
+            "path": "FITool-13.0.20.1312.zip",
+            "hash": "717e01dd74a5b8363a2c512001d5dd452a3abb72a62681a11faeac2a95f9e479",
+            "size": 8069662
+        },
+        {
+            "path": "FITool-13.0.37.1556.zip",
+            "hash": "0a75d2842504e09e4da93bc63139f5b3ac4ceaf7042019611438df7a4aa6de99",
+            "size": 8340076
+        },
+        {
+            "path": "FITool-13.30.0.1065.zip",
+            "hash": "ab3a6d463c40b3c64d290fb5aafec268eafa0840a243236666a87ea770453c6e",
+            "size": 8361902
+        },
+        {
+            "path": "FITool-13.50.10.1252.zip",
+            "hash": "022ccbc0289a0b2a0f5ac3fb59a2a3fe53ef1b4db41130049592b49113e964f7",
+            "size": 8203598
+        },
+        {
+            "path": "FITool-13.50.15.1475.zip",
+            "hash": "1fc13ad0c8d56b746fa3464294c624af3aa57421d11834946c6b374789bdc339",
+            "size": 8215325
+        },
+        {
+            "path": "FITool-14.0.0.1061.zip",
+            "hash": "1bad2eeac8b5ffb3a848cf90b0fd6e2b667fb75e30c6c4eb78eeaed5553e3e97",
+            "size": 7791719
+        },
+        {
+            "path": "FITool-14.0.11.1205.zip",
+            "hash": "5b945d4961da68ffa6a9108a175fcb4d09df81ec15484291414c04e82c67a740",
+            "size": 7955477
+        },
+        {
+            "path": "FITool-14.0.32.1122.zip",
+            "hash": "a83e7f174381bb9270eab284d1d22287da5d08fa3c7791f05acf94e04a08185a",
+            "size": 8394968
+        },
+        {
+            "path": "FITool-14.0.47.1500.zip",
+            "hash": "3cf1aa0b78bdfce76f2bd4cda447cdff6c29d26059cb255afe4a3891cbd6a4f9",
+            "size": 8172411
+        },
+        {
+            "path": "FITool-14.0.60.1790.zip",
+            "hash": "cedae072aef39b6707c5e4afd7f7d070fc77257e1b9ad38a6fc4ade5f773846d",
+            "size": 8250713
+        },
+        {
+            "path": "FITool-14.11.1205.zip",
+            "hash": "598bfb2987294dd4a3ca4df487a014dde54e34d2e98f73bf850df66fbf796ec6",
+            "size": 8121559
+        },
+        {
+            "path": "FITool-14.5.12.1112.zip",
+            "hash": "edb20fafa67dd572f75193b8faf1054eca2bc0d9063f3e94307e1a46ae6b2d68",
+            "size": 8360693
+        },
+        {
+            "path": "FITool-14.5.25.1229.zip",
+            "hash": "6f257a0e49bf243e3aca8fca6015acc5c97abf62ac1e4af2c4cb607503d813a1",
+            "size": 8187852
+        },
+        {
+            "path": "FITool-15.0.21.1549.zip",
+            "hash": "3a138d41e0e065678483b6a6f4f74f26dd0307fb919ad3a6498dd334ecffcbc8",
+            "size": 8229592
+        },
+        {
+            "path": "FITool-15.0.30.1716.zip",
+            "hash": "defede3e3a78367cf3b1c437a7e2f52451591693596dea20479e1e2402639883",
+            "size": 8231725
+        },
+        {
+            "path": "FITool-15.0.35.1951.zip",
+            "hash": "256fca2fbc40cb62cec619892f15e2d584555bde05678333a133fcf2f17649bc",
+            "size": 8260812
+        },
+        {
+            "path": "FITool-15.40.10.2268.zip",
+            "hash": "84229710d97ee5ec9a05406400722663c1804b4172a7be7e84eadaafd48016de",
+            "size": 8204818
+        },
+        {
+            "path": "FITool-15.40.16.2534.zip",
+            "hash": "df67fb9efa06b97a81969277a6b41137a202f2d17d91a037337ae4d99ecc46b0",
+            "size": 8170650
+        },
+        {
+            "path": "FITool-16.0.15.1531.zip",
+            "hash": "21e518e6d81b18c4e0339e77a0b4729008a0ee31fb3d9a0b0d1a2e4302e58c70",
+            "size": 15090640
+        },
+        {
+            "path": "FITool-16.0.15.1662.zip",
+            "hash": "c5a8e6036ce1dcb5be920b2ffad948809d1bff8fd53a3243dced998c5256310a",
+            "size": 15104352
+        },
+        {
+            "path": "FITool-16.1.25.2091.zip",
+            "hash": "f07f7ffa0e6f90735461ce75b179fe111d1275bde812fb8517be0fba1d1cd1de",
+            "size": 16313404
+        },
+        {
+            "path": "FITool-18.0.10.2285.zip",
+            "hash": "f2ef85fe50599eae89c819b3e5da9fbe519809d3cf39b380c66ff0bfbccfe3b9",
+            "size": 15576284
+        },
+        {
+            "path": "FITool-2.0.5.3112.zip",
+            "hash": "fdd55b1f63cd7a92d40bfe46389d1845d8200d941da13f69a104da4918f83353",
+            "size": 1178899
+        },
+        {
+            "path": "FITool-3.0.13.1144.zip",
+            "hash": "6a0a198981d8550db515cdb48a2d376d3d91fd46badffc6e8694864539dc356d",
+            "size": 6305712
+        },
+        {
+            "path": "FITool-3.1.50.2222.zip",
+            "hash": "82eeaa7df955388fe8122676f406af02041a35babdddeadd4ba84033334363fc",
+            "size": 6325661
+        },
+        {
+            "path": "FITool-3.1.50.2240.zip",
+            "hash": "f882ddd9b541113482e33ecd9d067610dfaf72eb29bfc0a5fad463e92c3b50b1",
+            "size": 6326601
+        },
+        {
+            "path": "FITool-3.1.65.2309.zip",
+            "hash": "d3ea7862191c90eb7f7eaf93fda42d6aac5f6e3c1b19884370966bb446a4525a",
+            "size": 6344105
+        },
+        {
+            "path": "FITool-3.1.70.2340.zip",
+            "hash": "521e5badaad7be3204c76a2215d1d7280478e633fee15d058305cd406bb5c093",
+            "size": 6735539
+        },
+        {
+            "path": "FITool-4.0.26.1337.zip",
+            "hash": "759fd16292aa55b6b99757a5de5632262b911599b3655777f4cc757673fc5ab9",
+            "size": 6700501
+        },
+        {
+            "path": "FITool-4.0.5.1280.zip",
+            "hash": "c167da21b62e1d93e838088c53f7072a9717a55007a2ba86757ff125f5a8721d",
+            "size": 6315743
+        },
+        {
+            "path": "FITool-4.1.0.1031.zip",
+            "hash": "bc463ef6e46494855d56723f17ab1b0982909379332255c28a157ca8c28009fc",
+            "size": 564011
+        },
+        {
+            "path": "FITool-5.0.0.1167.zip",
+            "hash": "1e796811041964dfe58fafe0a156665e1f1239b08ca39f44200df05cf849e707",
+            "size": 610229
+        },
+        {
+            "path": "FITool-6.0.0.1184.zip",
+            "hash": "747a1514ab163d0d1396d76652fa9514068eddf5705ed86f20defb8eb2e1cbe1",
+            "size": 656870
+        },
+        {
+            "path": "FITool-6.0.40.1212-IBX.zip",
+            "hash": "38ecfdacea0ad7b1fe13cd0cdcc4ce20f3e3ade6d3e6f37b5a48fe3b5b71b741",
+            "size": 730674
+        },
+        {
+            "path": "FITool-6.0.50.1260.zip",
+            "hash": "fa279e696db8e4dec89219324cf8a31f01ffeefaee4b66b771196ec42c1242c4",
+            "size": 975128
+        },
+        {
+            "path": "FITool-7.0.4.1197.zip",
+            "hash": "2277c8c9da07f373e637c9fe45c16818b067b143a4397dee3b1cfdd553bb053c",
+            "size": 758742
+        },
+        {
+            "path": "FITool-7.1.13.1088-r2.zip",
+            "hash": "17de839bf3ebe18e470ec7c938dc8e08013555347c8e86582f5a75c5c668c520",
+            "size": 697327
+        },
+        {
+            "path": "FITool-7.1.20.1119.zip",
+            "hash": "a88c09779e4943cff4a4cce329b23a3367107b898e88238c74b40bae1f9fd423",
+            "size": 765811
+        },
+        {
+            "path": "FITool-7.1.60.1191-r2.zip",
+            "hash": "e87b61a8f23662a1a8fbc9ecc1173e31411c1f9e27ef1bfbda215f552192f235",
+            "size": 699152
+        },
+        {
+            "path": "FITool-8.1.0.1265.zip",
+            "hash": "d24a77c04fd477ac541f052a52385dd92e58d2b33b720181aa90bb90d9385f4f",
+            "size": 1561030
+        },
+        {
+            "path": "FITool-8.1.10.1286.zip",
+            "hash": "978ac8159632a3960edae13aa4f76c442e309f3ab34abaff0e6ced9878744ce8",
+            "size": 1338550
+        },
+        {
+            "path": "FITool-8.1.40.1456.zip",
+            "hash": "c4712ec8c4a2a01971bc272470183168e34520d70dae478436e5f788f190fee2",
+            "size": 1341557
+        },
+        {
+            "path": "FITool-9.0.10.1372-1362-1367.zip",
+            "hash": "c8f0c81b2facb408a2c28df2ce31b5846f6daaf6c9c89ee087124b641b3049db",
+            "size": 2557791
+        },
+        {
+            "path": "FITool-9.0.21.1452.zip",
+            "hash": "95579db7f11ac5722ce668ebd7a58648ea205fc18062d39fd12eab405b6b7e24",
+            "size": 1387502
+        },
+        {
+            "path": "FITool-9.0.22.1467.zip",
+            "hash": "1755d77d6b1c44a4fd31185f7ee123f2cce5ec5a025e9e737e0ed269f2e16b3f",
+            "size": 2530447
+        },
+        {
+            "path": "FITool-9.1.10.1000.zip",
+            "hash": "39cacd05d0e7b510f98670b39d037de04e5a66f32ab6f3379504c538618fc03e",
+            "size": 1167546
+        },
+        {
+            "path": "FITool-9.5.12.1676.zip",
+            "hash": "e42627b7be6eb42c96a58d17145099d07556560840eae93d682ff39ce1bc8bba",
+            "size": 1393375
+        },
+        {
+            "path": "FITool-9.5.15.1730.zip",
+            "hash": "5e7370ee6ea2f50f10bbd583329fd4de6c4dca51823f15b570bf4c7ec50a59b6",
+            "size": 1155778
+        },
+        {
+            "path": "FITool-9.6.0.1038.zip",
+            "hash": "357e0a6479818d2cebc5f50020f6dfa9200fbc920b495fab67ef823cba7670d3",
+            "size": 1399166
+        },
+        {
+            "path": "README.md",
+            "hash": "326fa5510a58bacad55ae9325ffaf6e61881e1410110240cd81cb5f0af5fa49c",
+            "size": 2635
+        }
+    ]
+}

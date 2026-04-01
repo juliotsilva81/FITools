@@ -19,6 +19,7 @@ Este repositório contém uma coleção de utilitários e scripts voltados para 
 * `/scripts` - Scripts de automação (ex: Python/Bash) para agilizar tarefas rotineiras de *modding*.
 * `/docs` - Guias detalhados de uso, mapas de memória da SPI e referências de documentação técnica.
 * `/exemplos` - Arquivos de configuração (XMLs) e *templates* de uso.
+* `manifest.json` - Arquivo de índice contendo as listagens, tamanhos e *hashes* (SHA-256) dos arquivos, usado pela aplicação **JTS_Tool BIOS** para sincronização de ferramentas.
 
 ## 🚀 Como Começar
 
