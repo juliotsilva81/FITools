@@ -1,6 +1,6 @@
 {
     "version": "1.0.1",
-    "last_updated": "2026-04-01T15:44:07Z",
+    "last_updated": "2026-04-06T16:12:35Z",
     "files": [
         {
             "path": "FIT/FITool-1.6.0.1.zip",
@@ -278,6 +278,11 @@
             "size": 16313404
         },
         {
+            "path": "FIT/FITool-16.50.0.1120.zip",
+            "hash": "73fb081a90568ff5d3f55c5e0572d5e21e9cee3a049076e07925544ff60c3418",
+            "size": 33284101
+        },
+        {
             "path": "FIT/FITool-18.0.10.2285.zip",
             "hash": "f2ef85fe50599eae89c819b3e5da9fbe519809d3cf39b380c66ff0bfbccfe3b9",
             "size": 15576284
@@ -416,6 +421,11 @@
             "path": "FIT/FITool-9.6.0.1038.zip",
             "hash": "357e0a6479818d2cebc5f50020f6dfa9200fbc920b495fab67ef823cba7670d3",
             "size": 1399166
+        },
+        {
+            "path": "FIT/FITools-v16.0 r8.zip",
+            "hash": "d4128c93ceeab01b62cf0265684de9c2b2d8fa23430ed0983863fe90aa3e59ef",
+            "size": 44566338
         }
     ]
 }
