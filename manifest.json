@@ -1,7 +1,57 @@
 {
     "version": "1.0.1",
-    "last_updated": "2026-04-06T16:12:35Z",
+    "last_updated": "2026-04-29T01:30:13Z",
     "files": [
+        {
+            "path": "FIT/CSME System Tools v11 r46.zip",
+            "hash": "09e5103d6112983b88d55caadaabeeeac7de461ec9ce398d100cee1f6eeb4082",
+            "size": 26724915
+        },
+        {
+            "path": "FIT/CSME System Tools v12 r38.zip",
+            "hash": "d1d834aa45a32d2fc4486311d78eca65781d8b46197ddebb810508a275a27da1",
+            "size": 38394448
+        },
+        {
+            "path": "FIT/CSME System Tools v13.0 r7.zip",
+            "hash": "846f915c30de6e591f16c3816c1238953acaf1af1039d4c1c2d48e6760fc7e21",
+            "size": 22444178
+        },
+        {
+            "path": "FIT/CSME System Tools v13.30 r3.zip",
+            "hash": "445878f3c45735c4df3b2ec6ec8e7b534ee8f4c6cca4a53bc7a41ff9fd51e322",
+            "size": 23189006
+        },
+        {
+            "path": "FIT/CSME System Tools v13.50 r3.zip",
+            "hash": "b6d257dda4edba3f559fe578114ce13fd4f74d4bc670e0596951787e26026634",
+            "size": 31798524
+        },
+        {
+            "path": "FIT/CSME System Tools v14.0.11- r1.zip",
+            "hash": "54ef9b379e1f22f7426d0ee24e6ee7d71b89a5d797e730a1f4935950ab0e352a",
+            "size": 32745420
+        },
+        {
+            "path": "FIT/CSME System Tools v14.0.20+ r20.zip",
+            "hash": "7ddc079da043a27f38b8aaf9f39bfbf19f62fe2173e7f0094973647356418818",
+            "size": 29338110
+        },
+        {
+            "path": "FIT/CSME System Tools v14.5 r7.zip",
+            "hash": "e0f9b6992f35331efd23329b177489b43f2fdf77b7dd31aef33a04b61c545521",
+            "size": 31641884
+        },
+        {
+            "path": "FIT/CSME System Tools v15.0 r15.zip",
+            "hash": "dd5e6ca604ee3dbfe9666f2c4f851fca255f055ee50fa75f0c4cc86996f2f22a",
+            "size": 32290605
+        },
+        {
+            "path": "FIT/CSME System Tools v15.40 r3.zip",
+            "hash": "6ee226a7929c15569f01f0934c2f2cb876c1d4267069458df214b58c883638e8",
+            "size": 29246235
+        },
         {
             "path": "FIT/FITool-1.6.0.1.zip",
             "hash": "dcf7f8aa286aff54c2e5cc668e6de73863df1844761062b0f3499d19c29be65c",
@@ -426,6 +476,61 @@
             "path": "FIT/FITools-v16.0 r8.zip",
             "hash": "d4128c93ceeab01b62cf0265684de9c2b2d8fa23430ed0983863fe90aa3e59ef",
             "size": 44566338
+        },
+        {
+            "path": "FIT/ME System Tools v10.0 r8.zip",
+            "hash": "018e667279c1c294647c8a2ff384b416b0709f47054341b8706403bd3a3afe85",
+            "size": 6001950
+        },
+        {
+            "path": "FIT/ME System Tools v2 r1.zip",
+            "hash": "1e4f70e61bc0a51bc0801f0231caf4160f1d1e8b5cd4580fd7f04330f5b26349",
+            "size": 2373369
+        },
+        {
+            "path": "FIT/ME System Tools v3 r2.zip",
+            "hash": "7040d3eba9205fd2dccf9beb700a2928ffcced8af11213025a6bf0806869aca8",
+            "size": 2132094
+        },
+        {
+            "path": "FIT/ME System Tools v4 r1.zip",
+            "hash": "7aa2653eb849ab0b16ccb8f3dd063b22cf20e5195fe8536c54c47a4997d7c917",
+            "size": 2959972
+        },
+        {
+            "path": "FIT/ME System Tools v5 r2.zip",
+            "hash": "214d5993a4b5a499cac0045d52c61d49c49e228aee4dd2e6125070edfe1c962f",
+            "size": 3379373
+        },
+        {
+            "path": "FIT/ME System Tools v6 CCK r1.zip",
+            "hash": "1c159963dca3cca862ea93b3eec1e23b721d174217af49b50be12d7508de9c53",
+            "size": 1964508
+        },
+        {
+            "path": "FIT/ME System Tools v6 IBX r2.zip",
+            "hash": "c273f5c6992b5e47627edbff47795aeef30841e30830c26471f1ccc4f0844324",
+            "size": 3701405
+        },
+        {
+            "path": "FIT/ME System Tools v7 r2.zip",
+            "hash": "aaf55c95b170b879fcd088978d90275e5ee704a26b8bcbeeaa3edf62b0a44a25",
+            "size": 4739368
+        },
+        {
+            "path": "FIT/ME System Tools v8 r3.zip",
+            "hash": "f8526150968fa237b04757313a21d8d656ac67d435365502acc28da83892a59e",
+            "size": 7054732
+        },
+        {
+            "path": "FIT/ME System Tools v9.1 r7.zip",
+            "hash": "0da4cd86c34b370d5c4da634e1e3eed74c80b8c730e97dc9c6a9d3e283ca5d3a",
+            "size": 5238345
+        },
+        {
+            "path": "FIT/ME System Tools v9.5 r6.zip",
+            "hash": "55c8637911c886f2801715b4f3cb401c1d42d5ea42d12e0c9a4abae9c8cf6f02",
+            "size": 5420609
         }
     ]
 }
